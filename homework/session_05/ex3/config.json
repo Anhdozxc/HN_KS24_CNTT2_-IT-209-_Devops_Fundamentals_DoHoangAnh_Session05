@@ -1,6 +1,6 @@
 {
   "port": 8081,
-  "debug": false,
+  "debug": true,
   "env": "production",
   "api": true
 }
